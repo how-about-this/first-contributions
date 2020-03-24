@@ -999,6 +999,216 @@ Deepika Padmanabhan
 - [Joao Portela](https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
+- [Bernie Abraham](https://github.com/bernieabraham)
+- [Paul Steppacher](https://github.com/how-about-this)
+- Kevin M (https://github.com/kmckigney)
+- Maren Westermann (https://github.com/marenwestermann)
+- Prakhar Nahar (https://github.com/thatprakhar)
+- Joseph Blackledge (https://github.com/BlueDiablos)
+- Pracha Promthaw (https://github.com/kimmypracha)
+- [Adamu Abubakar Abba](https://github.com/IamSadiq/)
+- Jonah Song (https://github.com/jonahsong)
+- Bryan Baker (https://github.com/bry310)
+- John Fitzhenry (https://github.com/fitzhenry)
+- Ricks (https://github.com/iamricks)
+- Saket Suraj (https://github.com/Saketsuraj)
+- Shakeane Hinds (https://github.com/shakeanehinds)
+- Abhinav (github.com/bighero3)
+-Eduarda Souza
+ Diref
+- Anirban Ghosh
+- Ulhas Bhagwat
+- [Julio Denis] (https://github.com/jfdenis)
+- [Kashish Goel] (https://github.com/teddyphotos) 
+- Rafael Portaluppi
+-Charlotte Liew
+ Bruna Chagas (https://github.com/brunajanainachagas)
+- [Hanan Mufti](https://github.com/h-ARTS)
+- MattHew Phraxayavong (https://github.com/PhraxayaM)
+- Sanchit Trivedi
+- Ryan Westcott (https://github.com/RywesTech)
+- Aida Krzalic (https://github.com/krzalica)
+- Kristin Tuisk
+- Aniket Narayan (https://github.com/mrgooglr)
+- Marcelly
+- jkim1708
+- AE
+- leaSaraa
+- David Billingsley
+- Thomas Tamber
+- Bhargav Acharya
+- Balázs Nagy
+- María Sola (https://github.com/mariasola)
+- Antonio Cassano (https://github.com/antoniocassano84)
+- RR Carter
+- KogoKing (https://github.com/kogoking)
+- David Perlman (https://github.com/dperlman)
+- Ahmad Kasem (https://github.com/AhmadKasem)
+- Bruno Lima (https://github.com/LimaBD)
+- Kyle Grube (https://github.com/kgrube5)
+- [segfault-philosopher] (https://github.com/segfault-philosopher)
+- Vitor Henrique de Matos Alvarenga
+- Ashwini Jha
+- Prashanth Pai
+- [Kari Swarthout](https://github.com/kswarthout)
+Junior Schroh (https://github.com/JuniorSchroh)
+- 516M
+- Vincent Terpstra
+- [url8m8](https://github.com/url8m8/)
+- Mark Kariuki
+- LarissaAssis
+- [Rahul Raj] (https://github.com/notoveryet1308/)
+- Lucas Zillig
+- Mittul Mandhan
+- Jear Jujaroen (https://github.com/jearjujaroen)
+- Julian Hendrix (https://github.com/swishahendrix)
+- Monika Osochowska (https://github.com/kokosanki)
+- Caleb Contreras
+- Mayur Lalwani
+- Karini lbo 
+- Jamie Latham
+- Otavio rasera
+- kherhozen
+- Marbin Wong(wmarbin.github.io)
+- Pooja Singh
+- Izaroth (https://github.com/Izarothy)
+- Ameera Najah
+- Sarinhatomal
+- KoaLaYT (https://github.com/KoaLaYT)
+- [Mehari](https://github.com/mymehari02)
+- Jordyn (https://github.com/jordy337)
+- Chinedumc (https://github.com/chinedumc)
+- Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
+- Charlotte Dibb
+- Look back
+- Bagelbun
+- Mor Schlesinger (https://github.com/scmor3)
+- willwalsh96
+-shadrul
+- Priya Jagadeesan(https://github.com/priya-dharsinij)
+- [Gayoung Lee](https://github.com/gayounglee57)
+- [Idris Olubisi](https://github.com/olanetsoft)
+- Vagner Luis Carneiro de Campos
+- Steve Feivor
+- [Josh Ellis](https://github.com/imjoshellis)
+- Song Ning Peng
+- Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
+- Adrieli Polsin
+- [Shrey Ravi](https://github.com/ShreyRavi)
+- Matheus Maidel (https://github.com/Masthues)
+- Sethu Ram Kumar
+- [maisa bertotti](https://github.com/MaisaBertotti)
+- Johnathon Wood (https://github.com/jaywood128)
+- Dhruv Sarawagi (https://github.com/optimusPrime999)
+- Thomas Yee (https://github.com/thomas-yee)
+- Samuel Alarco
+-Tatiane Gonçalves
+- Sarah Guthals (https://github.com/sguthals)
+- Harsh Srivastava (https://github.com/harsh-sri)
+- Kevin M (https://github.com/kmckigney)
+- Maren Westermann (https://github.com/marenwestermann)
+- Prakhar Nahar (https://github.com/thatprakhar)
+- Joseph Blackledge (https://github.com/BlueDiablos)
+- Pracha Promthaw (https://github.com/kimmypracha)
+- [Adamu Abubakar Abba](https://github.com/IamSadiq/)
+- Jonah Song (https://github.com/jonahsong)
+- Bryan Baker (https://github.com/bry310)
+- John Fitzhenry (https://github.com/fitzhenry)
+- Ricks (https://github.com/iamricks)
+- Saket Suraj (https://github.com/Saketsuraj)
+- Shakeane Hinds (https://github.com/shakeanehinds)
+- Abhinav (github.com/bighero3)
+-Eduarda Souza
+ Diref
+- Anirban Ghosh
+- Ulhas Bhagwat
+- [Julio Denis] (https://github.com/jfdenis)
+- [Kashish Goel] (https://github.com/teddyphotos) 
+- Rafael Portaluppi
+-Charlotte Liew
+ Bruna Chagas (https://github.com/brunajanainachagas)
+- [Hanan Mufti](https://github.com/h-ARTS)
+- MattHew Phraxayavong (https://github.com/PhraxayaM)
+- Sanchit Trivedi
+- Ryan Westcott (https://github.com/RywesTech)
+- Aida Krzalic (https://github.com/krzalica)
+- Kristin Tuisk
+- Aniket Narayan (https://github.com/mrgooglr)
+- Marcelly
+- jkim1708
+- AE
+- leaSaraa
+- David Billingsley
+- Thomas Tamber
+- Bhargav Acharya
+- Balázs Nagy
+- María Sola (https://github.com/mariasola)
+- Antonio Cassano (https://github.com/antoniocassano84)
+- RR Carter
+- KogoKing (https://github.com/kogoking)
+- David Perlman (https://github.com/dperlman)
+- Ahmad Kasem (https://github.com/AhmadKasem)
+- Bruno Lima (https://github.com/LimaBD)
+- Kyle Grube (https://github.com/kgrube5)
+- [segfault-philosopher] (https://github.com/segfault-philosopher)
+- Vitor Henrique de Matos Alvarenga
+- Ashwini Jha
+- Prashanth Pai
+- [Kari Swarthout](https://github.com/kswarthout)
+Junior Schroh (https://github.com/JuniorSchroh)
+- 516M
+- Vincent Terpstra
+- [url8m8](https://github.com/url8m8/)
+- Mark Kariuki
+- LarissaAssis
+- [Rahul Raj] (https://github.com/notoveryet1308/)
+- Lucas Zillig
+- Mittul Mandhan
+- Jear Jujaroen (https://github.com/jearjujaroen)
+- Julian Hendrix (https://github.com/swishahendrix)
+- Monika Osochowska (https://github.com/kokosanki)
+- Caleb Contreras
+- Mayur Lalwani
+- Karini lbo 
+- Jamie Latham
+- Otavio rasera
+- kherhozen
+- Marbin Wong(wmarbin.github.io)
+- Pooja Singh
+- Izaroth (https://github.com/Izarothy)
+- Ameera Najah
+- Sarinhatomal
+- KoaLaYT (https://github.com/KoaLaYT)
+- [Mehari](https://github.com/mymehari02)
+- Jordyn (https://github.com/jordy337)
+- Chinedumc (https://github.com/chinedumc)
+- Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
+- Charlotte Dibb
+- Look back
+- Bagelbun
+- Mor Schlesinger (https://github.com/scmor3)
+- willwalsh96
+-shadrul
+- Priya Jagadeesan(https://github.com/priya-dharsinij)
+- [Gayoung Lee](https://github.com/gayounglee57)
+- [Idris Olubisi](https://github.com/olanetsoft)
+- Vagner Luis Carneiro de Campos
+- Steve Feivor
+- [Josh Ellis](https://github.com/imjoshellis)
+- Song Ning Peng
+- Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
+- Adrieli Polsin
+- [Shrey Ravi](https://github.com/ShreyRavi)
+- Matheus Maidel (https://github.com/Masthues)
+- Sethu Ram Kumar
+- [maisa bertotti](https://github.com/MaisaBertotti)
+- Johnathon Wood (https://github.com/jaywood128)
+- Dhruv Sarawagi (https://github.com/optimusPrime999)
+- Thomas Yee (https://github.com/thomas-yee)
+- Samuel Alarco
+-Tatiane Gonçalves
+- Sarah Guthals (https://github.com/sguthals)
+- Harsh Srivastava (https://github.com/harsh-sri)
 - [Christian Ford](https://github.com/Christian-Ford)
 - [Dylan Westerhold](https://github.com/dwesty17)
 - [Chris Lee](https://github.com/cleecode)
